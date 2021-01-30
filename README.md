@@ -27,3 +27,5 @@ Body:
  - Do `cd <project-folder>` and `pip install requirements.txt` 
  - Run `python manage.py makemigrations` and `python manage.py migrate`
  - Deploy test server: `python manage.py runserver` 
+
+hi
